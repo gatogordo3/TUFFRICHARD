@@ -4,5 +4,5 @@
 
 
 
-> # will this compile on linux winmango freebsd67 or tuff os
+> # will this compile on linux, winmango, freebsd67 or tuff os
 > **idk twin**
